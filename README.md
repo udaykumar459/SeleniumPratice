@@ -1,2 +1,2 @@
 # SeleniumPratice
-To practice sample scripts on selenium webdriver
+To practice sample scripts on selenium webdriver with examples
